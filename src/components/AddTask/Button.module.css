@@ -1,0 +1,16 @@
+ .button {
+   width: 125px;
+   height: 40px;
+   background-color: white;
+   border-radius: 10px;
+   border: none;
+   color: #038cd2;
+ }
+
+ p {
+   display: inline;
+   background-color: white;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   background-clip: text;
+ }
